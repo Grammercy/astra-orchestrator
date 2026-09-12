@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astra Orchestrator"
+  short_description: "Efficient Astra orchestration with Terra High workers"
+  default_prompt: "Use $astra-orchestrator to delegate execution to GPT-5.6 Terra High agents and keep Astra focused on coordination."
